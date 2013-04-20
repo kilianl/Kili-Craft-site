@@ -7,5 +7,5 @@ made by KilianL.
 Licence
 =======
 
-Licence for the whole website, that is, all the files in this 
+Licence for the whole website, that is, all the files in this github
 repository can be found in LICENCE.txt
